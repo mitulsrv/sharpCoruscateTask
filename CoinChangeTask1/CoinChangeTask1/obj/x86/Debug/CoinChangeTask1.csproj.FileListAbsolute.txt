@@ -1,0 +1,4 @@
+C:\Users\mitul\Documents\Visual Studio 2010\Projects\sharpInterview\CoinChangeTask1\CoinChangeTask1\bin\Debug\CoinChangeTask1.exe
+C:\Users\mitul\Documents\Visual Studio 2010\Projects\sharpInterview\CoinChangeTask1\CoinChangeTask1\bin\Debug\CoinChangeTask1.pdb
+C:\Users\mitul\Documents\Visual Studio 2010\Projects\sharpInterview\CoinChangeTask1\CoinChangeTask1\obj\x86\Debug\CoinChangeTask1.exe
+C:\Users\mitul\Documents\Visual Studio 2010\Projects\sharpInterview\CoinChangeTask1\CoinChangeTask1\obj\x86\Debug\CoinChangeTask1.pdb

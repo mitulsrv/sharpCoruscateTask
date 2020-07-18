@@ -1,0 +1,4 @@
+C:\Users\mitul\Documents\Visual Studio 2010\Projects\sharpInterview\TravelProblemTask2\TravelProblemTask2\bin\Debug\TravelProblemTask2.exe
+C:\Users\mitul\Documents\Visual Studio 2010\Projects\sharpInterview\TravelProblemTask2\TravelProblemTask2\bin\Debug\TravelProblemTask2.pdb
+C:\Users\mitul\Documents\Visual Studio 2010\Projects\sharpInterview\TravelProblemTask2\TravelProblemTask2\obj\x86\Debug\TravelProblemTask2.exe
+C:\Users\mitul\Documents\Visual Studio 2010\Projects\sharpInterview\TravelProblemTask2\TravelProblemTask2\obj\x86\Debug\TravelProblemTask2.pdb
